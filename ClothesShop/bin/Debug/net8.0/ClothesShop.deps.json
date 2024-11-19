@@ -7,14 +7,46 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ClothesShop/1.0.0": {
+        "dependencies": {
+          "ClothesShop.Application": "1.0.0"
+        },
         "runtime": {
           "ClothesShop.dll": {}
+        }
+      },
+      "ClothesShop.Application/1.0.0": {
+        "dependencies": {
+          "ClothesShop.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ClothesShop.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClothesShop.Domain/1.0.0": {
+        "runtime": {
+          "ClothesShop.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ClothesShop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClothesShop.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClothesShop.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

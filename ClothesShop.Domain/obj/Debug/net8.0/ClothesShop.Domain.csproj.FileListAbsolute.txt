@@ -1,0 +1,11 @@
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\bin\Debug\net8.0\ClothesShop.Domain.deps.json
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\bin\Debug\net8.0\ClothesShop.Domain.dll
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\bin\Debug\net8.0\ClothesShop.Domain.pdb
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\ClothesShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\ClothesShop.Domain.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\ClothesShop.Domain.AssemblyInfo.cs
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\ClothesShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\ClothesShop.Domain.dll
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\refint\ClothesShop.Domain.dll
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\ClothesShop.Domain.pdb
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Domain\obj\Debug\net8.0\ref\ClothesShop.Domain.dll

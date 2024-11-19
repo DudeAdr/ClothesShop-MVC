@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\adria\\source\\repos\\ClothesShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|solutionrelative:clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92F28A07-27CD-4955-83E5-F295230CA438}|ClothesShop.Infrastructure\\ClothesShop.Infrastructure.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.infrastructure\\persistence\\clothesshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F28A07-27CD-4955-83E5-F295230CA438}|ClothesShop.Infrastructure\\ClothesShop.Infrastructure.csproj|solutionrelative:clothesshop.infrastructure\\persistence\\clothesshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.domain\\entities\\clothesshopitemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|solutionrelative:clothesshop.domain\\entities\\clothesshopitemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|solutionrelative:clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.domain\\clothesshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,8 +54,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClothesShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Infrastructure\\Persistence\\ClothesShopDbContext.cs",
+              "RelativeDocumentMoniker": "ClothesShop.Infrastructure\\Persistence\\ClothesShopDbContext.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Infrastructure\\Persistence\\ClothesShopDbContext.cs*",
+              "RelativeToolTip": "ClothesShop.Infrastructure\\Persistence\\ClothesShopDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:39:21.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -60,28 +81,28 @@
               "RelativeDocumentMoniker": "ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
               "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
               "RelativeToolTip": "ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:11:56.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ClothesShop.cs",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShop.cs",
               "RelativeDocumentMoniker": "ClothesShop.Domain\\Entities\\ClothesShop.cs",
               "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShop.cs",
               "RelativeToolTip": "ClothesShop.Domain\\Entities\\ClothesShop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:04:29.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClothesShop.Domain",
+              "DocumentIndex": 3,
+              "Title": "ClothesShop.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\ClothesShop.Domain.csproj",
               "RelativeDocumentMoniker": "ClothesShop.Domain\\ClothesShop.Domain.csproj",
               "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\ClothesShop.Domain.csproj",
@@ -93,8 +114,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClothesShop",
+              "DocumentIndex": 4,
+              "Title": "ClothesShop.csproj",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\ClothesShop.csproj",
               "RelativeDocumentMoniker": "ClothesShop\\ClothesShop.csproj",
               "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\ClothesShop.csproj",
@@ -105,12 +126,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ClothesShop\\Views\\Home\\Privacy.cshtml",
@@ -118,11 +135,12 @@
               "RelativeToolTip": "ClothesShop\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T13:42:47.317Z"
+              "WhenOpened": "2024-11-17T13:42:47.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ClothesShop\\Views\\Home\\Index.cshtml",
@@ -130,23 +148,25 @@
               "RelativeToolTip": "ClothesShop\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T13:42:38.769Z"
+              "WhenOpened": "2024-11-17T13:42:38.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ClothesShop\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ClothesShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T13:06:17.111Z"
+              "WhenOpened": "2024-11-17T13:06:17.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "ClothesShop\\Views\\Home\\About.cshtml",
@@ -154,11 +174,12 @@
               "RelativeToolTip": "ClothesShop\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T13:06:19.676Z"
+              "WhenOpened": "2024-11-17T13:06:19.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Models\\About.cs",
               "RelativeDocumentMoniker": "ClothesShop\\Models\\About.cs",
@@ -166,17 +187,18 @@
               "RelativeToolTip": "ClothesShop\\Models\\About.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T12:54:42.362Z"
+              "WhenOpened": "2024-11-17T12:54:42.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ClothesShop\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ClothesShop\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T11:51:19.847Z",
               "EditorCaption": ""

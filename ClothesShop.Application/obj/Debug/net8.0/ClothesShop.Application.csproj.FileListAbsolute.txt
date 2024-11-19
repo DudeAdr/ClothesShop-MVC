@@ -1,0 +1,15 @@
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\bin\Debug\net8.0\ClothesShop.Application.deps.json
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\bin\Debug\net8.0\ClothesShop.Application.dll
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\bin\Debug\net8.0\ClothesShop.Application.pdb
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\bin\Debug\net8.0\ClothesShop.Domain.dll
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\bin\Debug\net8.0\ClothesShop.Domain.pdb
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesShop.Application.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesShop.Application.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesShop.Application.AssemblyInfo.cs
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesS.9529FC3B.Up2Date
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesShop.Application.dll
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\refint\ClothesShop.Application.dll
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ClothesShop.Application.pdb
+C:\Users\adria\source\repos\ClothesShop\ClothesShop.Application\obj\Debug\net8.0\ref\ClothesShop.Application.dll
