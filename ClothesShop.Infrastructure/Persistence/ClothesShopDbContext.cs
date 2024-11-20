@@ -9,13 +9,11 @@ namespace ClothesShop.Infrastructure.Persistence
 {
     public class ClothesShopDbContext : DbContext
     {
-        public DbSet<Domain.Entities.ClothesShop> ClothesShop { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public ClothesShopDbContext(DbContextOptions<ClothesShopDbContext> options) : base(options) 
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=ClothesShopDb;Trusted_Connection=True;");
+        
         }
-
+        public DbSet<Domain.Entities.ClothesShop> ClothesShop { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Domain.Entities.ClothesShop>()
