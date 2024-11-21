@@ -1,4 +1,5 @@
 ﻿using ClothesShop.Infrastructure.Persistence;
+using ClothesShop.Infrastructure.Seeders;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -16,6 +17,8 @@ namespace ClothesShop.Infrastructure.Extensions
         {
             services.AddDbContext<ClothesShopDbContext>(options => options.UseSqlServer(
                 configuration.GetConnectionString("ClothesShop")));
+
+            services.AddScoped<ClothesShopSeeder>();
         }
     }
 }
