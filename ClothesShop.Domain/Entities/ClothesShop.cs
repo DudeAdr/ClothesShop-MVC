@@ -13,6 +13,7 @@ namespace ClothesShop.Domain.Entities
         public string? Description { get; set; }
         public DateTime? CreatedAt { get; set; } = DateTime.UtcNow;
         public ClothesShopItemDetails ItemDetails { get; set; } = default!;
+        public string? About { get; set; }
         public string EncodedBrand { get; private set; } = default!;
         public void EncodeBrand() => EncodedBrand = Brand.ToLower().Replace(" ", "-");
     }

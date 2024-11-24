@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\adria\\source\\repos\\ClothesShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|solutionrelative:clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9241550B-61B5-415B-98A3-9871F3187E67}|ClothesShop\\ClothesShop.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop\\controllers\\clothesshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9241550B-61B5-415B-98A3-9871F3187E67}|ClothesShop\\ClothesShop.csproj|solutionrelative:clothesshop\\controllers\\clothesshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3B3178-31C4-4560-8436-BD3760B1FF40}|ClothesShop.Application\\ClothesShop.Application.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.application\\services\\iclothesshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3B3178-31C4-4560-8436-BD3760B1FF40}|ClothesShop.Application\\ClothesShop.Application.csproj|solutionrelative:clothesshop.application\\services\\iclothesshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3B3178-31C4-4560-8436-BD3760B1FF40}|ClothesShop.Application\\ClothesShop.Application.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.application\\services\\clothesshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3B3178-31C4-4560-8436-BD3760B1FF40}|ClothesShop.Application\\ClothesShop.Application.csproj|solutionrelative:clothesshop.application\\services\\clothesshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9241550B-61B5-415B-98A3-9871F3187E67}|ClothesShop\\ClothesShop.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop\\views\\clothesshop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9241550B-61B5-415B-98A3-9871F3187E67}|ClothesShop\\ClothesShop.csproj|solutionrelative:clothesshop\\views\\clothesshop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92F28A07-27CD-4955-83E5-F295230CA438}|ClothesShop.Infrastructure\\ClothesShop.Infrastructure.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.infrastructure\\seeders\\clothesshopseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F28A07-27CD-4955-83E5-F295230CA438}|ClothesShop.Infrastructure\\ClothesShop.Infrastructure.csproj|solutionrelative:clothesshop.infrastructure\\seeders\\clothesshopseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9241550B-61B5-415B-98A3-9871F3187E67}|ClothesShop\\ClothesShop.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9241550B-61B5-415B-98A3-9871F3187E67}|ClothesShop\\ClothesShop.csproj|solutionrelative:clothesshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92F28A07-27CD-4955-83E5-F295230CA438}|ClothesShop.Infrastructure\\ClothesShop.Infrastructure.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.infrastructure\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92F28A07-27CD-4955-83E5-F295230CA438}|ClothesShop.Infrastructure\\ClothesShop.Infrastructure.csproj|solutionrelative:clothesshop.infrastructure\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|solutionrelative:clothesshop.domain\\entities\\clothesshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4E850CE-1A30-4FCD-93AB-905CB0BB6A8B}|ClothesShop.Domain\\ClothesShop.Domain.csproj|c:\\users\\adria\\source\\repos\\clothesshop\\clothesshop.domain\\entities\\clothesshopitemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,64 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClothesShopItemDetails.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
-              "RelativeDocumentMoniker": "ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
-              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
-              "RelativeToolTip": "ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IClothesShopService.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Application\\Services\\IClothesShopService.cs",
+              "RelativeDocumentMoniker": "ClothesShop.Application\\Services\\IClothesShopService.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Application\\Services\\IClothesShopService.cs",
+              "RelativeToolTip": "ClothesShop.Application\\Services\\IClothesShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:04:51.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClothesShop.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShop.cs",
-              "RelativeDocumentMoniker": "ClothesShop.Domain\\Entities\\ClothesShop.cs",
-              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShop.cs",
-              "RelativeToolTip": "ClothesShop.Domain\\Entities\\ClothesShop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:02:56.85Z",
+              "WhenOpened": "2024-11-24T12:39:30.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ClothesShopService.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Application\\Services\\ClothesShopService.cs",
+              "RelativeDocumentMoniker": "ClothesShop.Application\\Services\\ClothesShopService.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Application\\Services\\ClothesShopService.cs",
+              "RelativeToolTip": "ClothesShop.Application\\Services\\ClothesShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:38:55.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Views\\ClothesShop\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClothesShop\\Views\\ClothesShop\\Create.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Views\\ClothesShop\\Create.cshtml",
+              "RelativeToolTip": "ClothesShop\\Views\\ClothesShop\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:01:13.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClothesShopSeeder.cs",
               "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Infrastructure\\Seeders\\ClothesShopSeeder.cs",
               "RelativeDocumentMoniker": "ClothesShop.Infrastructure\\Seeders\\ClothesShopSeeder.cs",
               "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Infrastructure\\Seeders\\ClothesShopSeeder.cs",
               "RelativeToolTip": "ClothesShop.Infrastructure\\Seeders\\ClothesShopSeeder.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:58:55.28Z"
+              "WhenOpened": "2024-11-24T12:22:52.077Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceCollectionExtension.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "RelativeDocumentMoniker": "ClothesShop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "RelativeToolTip": "ClothesShop.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ClothesShopController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Controllers\\ClothesShopController.cs",
+              "RelativeDocumentMoniker": "ClothesShop\\Controllers\\ClothesShopController.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Controllers\\ClothesShopController.cs",
+              "RelativeToolTip": "ClothesShop\\Controllers\\ClothesShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:53:07.702Z"
+              "WhenOpened": "2024-11-24T12:14:06.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Program.cs",
-              "RelativeDocumentMoniker": "ClothesShop\\Program.cs",
-              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop\\Program.cs",
-              "RelativeToolTip": "ClothesShop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ClothesShopItemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
+              "RelativeDocumentMoniker": "ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
+              "RelativeToolTip": "ClothesShop.Domain\\Entities\\ClothesShopItemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:42:11.954Z"
+              "WhenOpened": "2024-11-21T20:04:51.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClothesShop.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShop.cs",
+              "RelativeDocumentMoniker": "ClothesShop.Domain\\Entities\\ClothesShop.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ClothesShop\\ClothesShop.Domain\\Entities\\ClothesShop.cs",
+              "RelativeToolTip": "ClothesShop.Domain\\Entities\\ClothesShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:02:56.85Z",
+              "EditorCaption": ""
             }
           ]
         }

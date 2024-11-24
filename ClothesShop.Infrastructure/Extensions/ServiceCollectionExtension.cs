@@ -1,4 +1,6 @@
-﻿using ClothesShop.Infrastructure.Persistence;
+﻿using ClothesShop.Domain.Interfaces;
+using ClothesShop.Infrastructure.Persistence;
+using ClothesShop.Infrastructure.Repositories;
 using ClothesShop.Infrastructure.Seeders;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -19,6 +21,7 @@ namespace ClothesShop.Infrastructure.Extensions
                 configuration.GetConnectionString("ClothesShop")));
 
             services.AddScoped<ClothesShopSeeder>();
+            services.AddScoped<IClothesShopRepository, ClothesShopRepository>();
         }
     }
 }

@@ -2,6 +2,7 @@ using ClothesShop.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using ClothesShop.Infrastructure.Extensions;
 using ClothesShop.Infrastructure.Seeders;
+using ClothesShop.Application.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddConfiguration(builder.Configuration);
+builder.Services.AddApplication();
 
 var app = builder.Build();
 var scope = app.Services.CreateScope();

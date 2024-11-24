@@ -30,6 +30,9 @@ namespace ClothesShop.Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("About")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Brand")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -59,13 +62,10 @@ namespace ClothesShop.Infrastructure.Migrations
                             b1.Property<string>("Colour")
                                 .HasColumnType("nvarchar(max)");
 
-                            b1.Property<int>("Id")
-                                .HasColumnType("int");
-
                             b1.Property<string>("Name")
                                 .HasColumnType("nvarchar(max)");
 
-                            b1.Property<int>("Price")
+                            b1.Property<int?>("Price")
                                 .HasColumnType("int");
 
                             b1.Property<string>("Size")

@@ -32,8 +32,9 @@ namespace ClothesShop.Infrastructure.Seeders
                             Name = "Nike Sportswear Phoenix Fleece",
                             Size = "XS, S, M, L, XL, XXL",
                             Colour = "Red, White, Black",
-                            Price = 255.99
-                        }       
+                            Price = 255
+                        },
+                        About = "Bardzo wygodna bluza oversize"
                     };
 
                     nike.EncodeBrand();
