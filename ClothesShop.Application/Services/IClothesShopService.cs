@@ -1,7 +1,10 @@
-﻿namespace ClothesShop.Application.Services
+﻿using ClothesShop.Application.ClothesShop;
+using ClothesShop.Application.Mappings;
+
+namespace ClothesShop.Application.Services
 {
     public interface IClothesShopService
     {
-        Task Create(Domain.Entities.ClothesShop clothesShop);
+        Task Create(ClothesShopDto clothesShop);
     }
 }

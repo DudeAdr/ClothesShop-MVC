@@ -1,4 +1,5 @@
-﻿using ClothesShop.Application.Services;
+﻿using ClothesShop.Application.ClothesShop;
+using ClothesShop.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ClothesShop.Controllers
@@ -18,8 +19,12 @@ namespace ClothesShop.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(Domain.Entities.ClothesShop clothesShop)
+        public async Task<IActionResult> Create(ClothesShopDto clothesShop)
         {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
             await _clothesShopService.Create(clothesShop);
             return RedirectToAction(nameof(Create)); //TODO:REFACTOR
         }

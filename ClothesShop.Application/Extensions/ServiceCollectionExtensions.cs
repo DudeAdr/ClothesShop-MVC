@@ -1,4 +1,5 @@
-﻿using ClothesShop.Application.Services;
+﻿using ClothesShop.Application.Mappings;
+using ClothesShop.Application.Services;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,6 +14,7 @@ namespace ClothesShop.Application.Extensions
         public static void AddApplication(this IServiceCollection services)
         {
             services.AddScoped<IClothesShopService, ClothesShopService>();
+            services.AddAutoMapper(typeof(ClothesShopMappingProfile));
         }
     } 
 }

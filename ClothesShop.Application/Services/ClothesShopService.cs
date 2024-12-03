@@ -1,4 +1,6 @@
-﻿using ClothesShop.Domain.Interfaces;
+﻿using AutoMapper;
+using ClothesShop.Application.ClothesShop;
+using ClothesShop.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,13 +12,17 @@ namespace ClothesShop.Application.Services
     public class ClothesShopService : IClothesShopService
     {
         private IClothesShopRepository _clothesShopRepository;
+        private IMapper _mapper;
 
-        public ClothesShopService(IClothesShopRepository clothesShopRepository)
+        public ClothesShopService(IClothesShopRepository clothesShopRepository, IMapper mapper)
         {
             _clothesShopRepository = clothesShopRepository;
+            _mapper = mapper;
         }
-        public async Task Create(Domain.Entities.ClothesShop clothesShop)
+        public async Task Create(ClothesShopDto clothesShopDto)
         {
+            var clothesShop = _mapper.Map<Domain.Entities.ClothesShop>(clothesShopDto);
+
             clothesShop.EncodeBrand();
             await _clothesShopRepository.Create(clothesShop);
         }
