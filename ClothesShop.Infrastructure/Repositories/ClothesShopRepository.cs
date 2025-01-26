@@ -1,5 +1,6 @@
 ﻿using ClothesShop.Domain.Interfaces;
 using ClothesShop.Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,5 +22,16 @@ namespace ClothesShop.Infrastructure.Repositories
             _dbContext.Add(clothesShop);
             await _dbContext.SaveChangesAsync();
         }
+
+        public async Task<IEnumerable<Domain.Entities.ClothesShop>> GetAll()
+        {
+            return await _dbContext.ClothesShop.ToListAsync();
+        }
+
+        public Task<Domain.Entities.ClothesShop?> GetByName(string name)
+        {
+            return _dbContext.ClothesShop.FirstOrDefaultAsync(c => c.Brand.ToLower() == name.ToLower());
+        }
+
     }
 }

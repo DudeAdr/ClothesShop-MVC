@@ -6,5 +6,6 @@ namespace ClothesShop.Application.Services
     public interface IClothesShopService
     {
         Task Create(ClothesShopDto clothesShop);
+        Task<IEnumerable<ClothesShopDto>> GetAll();
     }
 }

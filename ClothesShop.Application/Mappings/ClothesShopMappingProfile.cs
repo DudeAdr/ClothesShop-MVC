@@ -21,6 +21,12 @@ namespace ClothesShop.Application.Mappings
                     Colour = src.Colour,
                     Price = src.Price,
                 }));
+
+            CreateMap<Domain.Entities.ClothesShop, ClothesShopDto>()
+                .ForMember(dto => dto.Name, opt => opt.MapFrom(src => src.ItemDetails.Name))
+                .ForMember(dto => dto.Size, opt => opt.MapFrom(src => src.ItemDetails.Size))
+                .ForMember(dto => dto.Colour, opt => opt.MapFrom(src => src.ItemDetails.Colour))
+                .ForMember(dto => dto.Price, opt => opt.MapFrom(src => src.ItemDetails.Price));
         }
     }
 }

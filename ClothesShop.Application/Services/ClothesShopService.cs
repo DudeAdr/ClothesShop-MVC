@@ -26,5 +26,12 @@ namespace ClothesShop.Application.Services
             clothesShop.EncodeBrand();
             await _clothesShopRepository.Create(clothesShop);
         }
+
+        public async Task<IEnumerable<ClothesShopDto>> GetAll()
+        {
+            var clothesShops = await _clothesShopRepository.GetAll();
+            var dtos = _mapper.Map<IEnumerable<ClothesShopDto>>(clothesShops);
+            return dtos;
+        }
     }
 }

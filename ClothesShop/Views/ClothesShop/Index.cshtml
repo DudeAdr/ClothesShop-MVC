@@ -1,0 +1,26 @@
+﻿@model IEnumerable<ClothesShop.Application.ClothesShop.ClothesShopDto>
+
+@{
+    ViewData["Title"] = "Clothes Brands";
+}
+
+<h1>Clothes Brands:</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="card m-3" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@item.Brand</h5>
+                <h6 class="card-subtitle">@item.Name</h6>
+                <p class="card-test">@item.Description</p>
+                <a href="#" class="btn btn-primary">Details</a>
+                <a href="#" class="btn btn-outline-secondary">Edit</a>
+            </div>
+        </div>
+    }     
+</div>

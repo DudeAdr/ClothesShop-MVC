@@ -12,6 +12,11 @@ namespace ClothesShop.Controllers
         {
             _clothesShopService = clothesShopService;
         }
+        public async Task<IActionResult> Index()
+        {
+            var clothesShops = await _clothesShopService.GetAll();
+            return View(clothesShops);
+        }
 
         public IActionResult Create()
         {
@@ -26,7 +31,7 @@ namespace ClothesShop.Controllers
                 return View();
             }
             await _clothesShopService.Create(clothesShop);
-            return RedirectToAction(nameof(Create)); //TODO:REFACTOR
+            return RedirectToAction(nameof(Index));
         }
 
 
